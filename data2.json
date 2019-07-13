@@ -1,0 +1,23 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 3,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "cat": 272
+  },
+  "models": {
+    "User": {
+      "1": "{\"password\":\"$2a$10$lWh569lR8zWQP19.cb5Jxu.Wq9r2Pf1st51pw/dZlCMBVhpCe/7tO\",\"email\":\"raymondcamden@gmail.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "oD03yEQNsgSZrSCtFoevBnqFCBJTKyv4ezKDcxn1PQnEDXJHId00IWEgJ42CHy0s": "{\"id\":\"oD03yEQNsgSZrSCtFoevBnqFCBJTKyv4ezKDcxn1PQnEDXJHId00IWEgJ42CHy0s\",\"ttl\":1209600,\"created\":\"2017-08-26T16:19:46.099Z\",\"userId\":1}",
+      "MEz5WE8QAEq5a2Kb20f04APWqFLzyMGrfEbOFVgKe43B0M2tadqedSNN9EvJ9sNc": "{\"id\":\"MEz5WE8QAEq5a2Kb20f04APWqFLzyMGrfEbOFVgKe43B0M2tadqedSNN9EvJ9sNc\",\"ttl\":1209600,\"created\":\"2017-08-26T16:21:45.281Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "cat": {}
+  }
+}

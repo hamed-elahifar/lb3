@@ -1,0 +1,33 @@
+{
+  "name": "cat",
+  "base": "PersistedModel",
+  "idInjection": true,
+  
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "number"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "breed": {
+      "type": "string"
+    },
+    "updated": {
+      "type": "date"
+    },
+    "wight": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
